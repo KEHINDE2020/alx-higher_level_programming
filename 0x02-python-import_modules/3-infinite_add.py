@@ -1,6 +1,7 @@
 #!/usr/bin/python3
+# 3-infinite_add.py
 
-if _name_ == "_main_":
+if __name__ == "__main__":
     """Print the addition of all arguments."""
     import sys
 
